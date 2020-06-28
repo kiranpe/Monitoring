@@ -1,0 +1,14 @@
+--> create jenkins and k8s instances in AWS - terraform + ansible
+
+--> install java docker helm on instances - terraform + ansible
+
+--> install prometheus and grafana on k8s - terraform + ansible
+
+--> build the code and create new image - jenkins + git + docker
+
+--> deploy image in k8s cluster - jenkins + kubernetes + ansible
+
+--> monitor pods - prometheus + grafana
+
+
+#This is basic idea of project.. add more while developing
